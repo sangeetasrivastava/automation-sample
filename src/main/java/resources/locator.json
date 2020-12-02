@@ -1,0 +1,17 @@
+{
+		"userName": "//input[@id='userName']",
+		"password":"//input[@id='password']",
+		"login": "//*[@id='login']",
+		"newUser": "//*[@id='newUser']",
+		"errorMessage": "//*[@id='name']",
+		"header": "//*[@class='main-header']",
+		"searchBox": "//input[@id='searchBox']",
+		"logout":"//button[text()='Log out']",
+		"deleteAccount":"//button[text()='Delete Account']",
+		"cancel":"//button[text()='Cancel']",
+		"gotoStore": "//button[@id='gotoStore']",
+		"firstLink": "//a[text()='Git Pocket Guide']/@href",
+		"secondLink": "//a[text()='Speaking JavaScript']",
+		"dropdownList": "//div[@class='-center']/span[2]/select",
+		"dropDownList2": "//div[@class='-center']/span[2]/select/option[2]"
+}
